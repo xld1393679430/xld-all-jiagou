@@ -1,0 +1,23 @@
+{
+  "name": "jiagou_lagou",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/1393679430/jiagou_lagou.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/1393679430/jiagou_lagou/issues"
+  },
+  "homepage": "https://gitlab.com/1393679430/jiagou_lagou#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
